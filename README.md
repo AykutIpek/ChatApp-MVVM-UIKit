@@ -16,7 +16,6 @@ Firebase, JGProgressHud , SDWebImages
 ## ScreenShots
 
 <img src="https://github.com/AykutIpek/ChatApp-MVVM-UIKit/blob/main/ChatApp/Files/Assets.xcassets/ScreenShot1.imageset/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-02-01%20at%2021.18.48.png" width="300">
-<img src="https://github.com/AykutIpek/ChatApp-MVVM-UIKit/blob/main/ChatApp/Files/Assets.xcassets/ScreenShot1.imageset/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-02-01%20at%2021.18.48.png" width="300">
 <img src="https://github.com/AykutIpek/ChatApp-MVVM-UIKit/blob/main/ChatApp/Files/Assets.xcassets/ScreenShot2.imageset/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-02-01%20at%2021.19.03.png" width="300">
 <img src="https://github.com/AykutIpek/ChatApp-MVVM-UIKit/blob/main/ChatApp/Files/Assets.xcassets/ScreenShot3.imageset/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-02-01%20at%2021.20.37.png" width="300">
 <img src="https://github.com/AykutIpek/ChatApp-MVVM-UIKit/blob/main/ChatApp/Files/Assets.xcassets/ScreenShot4.imageset/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202023-02-01%20at%2021.22.48.png" width="300">
